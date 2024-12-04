@@ -151,6 +151,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Bewinxed
 
 *Don't forget to give this project a ⭐ if you found it helpful!*
