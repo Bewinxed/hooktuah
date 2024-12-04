@@ -1,6 +1,6 @@
 {
   "name": "hooktuah",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Forward events from Websocket, URL-Polling, or an external client to a webhook endpoint! FORWARD THAT THANG.",
   "author": "Your Name",
   "license": "MIT",
